@@ -1,22 +1,20 @@
 name: git-gateway
 branch: master
-media-folder: static/img
+media_folder: static/img
 public_folder: /img
 collections:
   - name: "blog"
-      label: "Blog"
-      folder: "src/blog"
-      create: true
-      slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
-      fields:
-      - label: "Title
-          name: "title"
-          widget: "string"
+    label: "Blog"
+    folder: "src/blog"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - label: "Title"
+        name: "title"
+        widget: "string"
       - label: "Publish Date"
-          name: "date"
-          widget: "datetime"
+        name: "date"
+        widget: "datetime"
       - label: "Body"
-          name: "body"
-          widget: "markdown"
-
-  
+        name: "body"
+        widget: "markdown"
