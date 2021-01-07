@@ -7,7 +7,8 @@ import BlogPost from './BlogPost';
 export default function BlogList()
 {
     const data = useStaticQuery(graphql`
-    {allMarkdownRemark {edges {node {
+    {allMarkdownRemark(sort: {fields: frontmatter___date, order: DESC})
+        {edges {node {
         id
         frontmatter
         {title, date(formatString: "MMMM D, YYYY")}
