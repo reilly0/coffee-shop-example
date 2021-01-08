@@ -1,10 +1,10 @@
-//BlogList.js
+//BlogPostListings.js
 
 import React from 'react';
 import {graphql, useStaticQuery} from 'gatsby';
-import BlogPost from './BlogPost';
+import BlogPostListing from './BlogPostListing';
 
-export default function BlogList()
+export default function BlogPostListings()
 {
     const data = useStaticQuery(graphql`
     {allMarkdownRemark(sort: {fields: frontmatter___date, order: DESC})
@@ -18,7 +18,7 @@ export default function BlogList()
     return (
         <div>
         {data.allMarkdownRemark.edges.map
-            (edge => (<BlogPost
+            (edge => (<BlogPostListing
                        key = {edge.node.id}
                        title = {edge.node.frontmatter.title}
                        date = {edge.node.frontmatter.date}
