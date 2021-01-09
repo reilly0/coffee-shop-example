@@ -1,0 +1,5 @@
+---
+title: By Focussing on Repeatability ...
+date: 2021-01-09T14:31:52.434Z
+---
+We get a couple of things.  First of all we rehabilitate mathematics as a science ... indeed, it's not even an unrevisable science, as Lakatos shows in Proofs and Refutations, and it's empirical in the sense that you see if you can repeat my experiment and come to the same conclusion, my experiment being my attempt at a proof.  Can I do this proof and create the observation in myself, that this shows clearly that the theorem "follows"?  We ask people to do this when they consider the axioms: If you can't hold the axiom before your mind's eye, or whatever, and simply have the view that, yes, I see, that's true, so far as its terms go", then there's really nothing to say, unless you can give me the counter-example that seems to confound you .... (if it doesn't seem true to you, but you can't present the counter-example, then perhaps you've escaped the bounds of logic altogether ... though the revisability of logic, is at least one other blog post!)
