@@ -1,0 +1,5 @@
+---
+title: So Meaning Has To Come Down To Agency
+date: 2021-01-09T14:28:19.563Z
+---
+So, although the external world view, along with its static time and no place for consciousness, is one way to fatalism, it's not the only way.  One could be a puppet of the gods, for example.  But it's the current way for thinking people.  So, one will have to make clear why it's important to clear the view for it.  I suppose it will be hard to motivate, until we see that we keep bumping up against determinism and its consequences when we try to insert agency into the world.  And we conclude, that yes, there appear to be background assumptions here that destroy the notion of freewill for acceptors of the external world view of science ... which is an interpretation, not an essential part of science.  (The essential part being repeatability.)
